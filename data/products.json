@@ -1,1 +1,16 @@
-[{"title":"Book","imageUrl":"qwerty","descrip":"Excellent Book!!","price":"300","id":"0.4245588443297078"}]
+[
+  {
+    "title": "Book",
+    "imageUrl": "qwerty",
+    "descrip": "Excellent Book!!",
+    "price": "300",
+    "id": "0.4245588443297078"
+  },
+  {
+    "id": "0.8106167822121505",
+    "title": "Toji Action Figure",
+    "imageUrl": "qwertyytrewq",
+    "descrip": "Ghost",
+    "price": "300"
+  }
+]
